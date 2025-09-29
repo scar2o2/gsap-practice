@@ -6,12 +6,12 @@ const animations = [
     path: "/basicgsap",
   },
   {
-    title: "Intermediate GSAP Exercises",
-    path: "/intermediategsap",
+    title: "Moderate GSAP Exercises",
+    path: "/moderategsap",
   },
   {
-    title: "GSAP FromTo",
-    path: "/gsapfromto",
+    title: "Intermediate GSAP Exercises",
+    path: "/intermediategsap",
   },
   {
     title: "GSAP Timeline",
