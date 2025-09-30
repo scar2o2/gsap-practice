@@ -10,24 +10,20 @@ const animations = [
     path: "/moderategsap",
   },
   {
-    title: "Intermediate GSAP Exercises",
-    path: "/intermediategsap",
+    title: "Advanced GSAP Timeline",
+    path: "/advancedgsap",
   },
   {
-    title: "GSAP Timeline",
-    path: "/gsaptimeline",
-  },
-  {
-    title: "GSAP Stagger",
-    path: "/gsapstagger",
+    title: "Complex GSAP Exercises",
+    path: "/complexgsap",
   },
   {
     title: "GSAP ScrollTrigger",
     path: "/gsapscrolltrigger",
   },
   {
-    title: "GSAP Text",
-    path: "/gsaptext",
+    title: "GSAP Components",
+    path: "/gsapcomponents",
   },
 ];
 

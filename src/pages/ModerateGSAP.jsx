@@ -109,7 +109,7 @@ const ModerateGSAP = () => {
     })
     return (
         <div className='text-white p-12 flex flex-col gap-12'>
-            <h1 className='text-white text-5xl  font-medium text-center'>Basic GSAP Exercises</h1>
+            <h1 className='text-white text-5xl  font-medium text-center'>Moderate GSAP Exercises</h1>
             <div className='flex flex-col gap-3'>
                 <h1 className='text-3xl'>Timeline + Stagger</h1>
                 <div className='flex flex-row gap-9'>
